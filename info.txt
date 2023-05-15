@@ -1,0 +1,27 @@
+- Old ePos site
+
+url: https://jeavensoft.com/solutions/oneposDev/welcome
+email: jevanbala@gmail.com
+password: Google23.
+
+
+- Current project Site
+
+url: https://jeavensoft.com/solutions/ePOSDev/kiosk/
+
+
+-FTP info
+
+host: jeavensoft.com
+email: eposDev@jeavensoft.com
+password: Google23.
+port: 21
+
+
+- Firebase
+https://console.firebase.google.com/project/mydb-b5059/storage/mydb-b5059.appspot.com/files
+
+
+- using current theme info
+
+https://preview.themeforest.net/item/swiggi-online-food-ordering-website-mobile-template/full_screen_preview/27990254?_ga=2.241204802.1355381276.1682605063-834325300.1668919378
